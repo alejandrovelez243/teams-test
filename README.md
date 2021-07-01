@@ -7,4 +7,4 @@ The test is build like a game, you should start it running python main.py, and f
 
 If you wanna run a test, and not play the game, you just run python main.py, and insert test, it would run a short test, that you can modify, changing the function fast_test.
 
-I hope that you have fun with this fun game, better than anything else :D
+I do another try at night, you can take a look from it.
